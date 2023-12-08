@@ -1,2 +1,3 @@
 # First-Demo
-This is my dfirst Demo repository
+This is my first Demo repository
+Author Mukesh Kumar 
